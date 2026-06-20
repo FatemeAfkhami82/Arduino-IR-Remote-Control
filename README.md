@@ -21,6 +21,9 @@ This project enables remote control of a DC motor using an IR receiver and a sta
 - VS1838B IR Receiver
 - NEC-compatible IR Remote
 
+## 🖼 Circuit Diagram
+![Circuit Scheme](5886284994961936037.jpg)
+
 ## 🚀 How to Use
 1. Upload `Arduino_IR_Remote.ino` to your Arduino.
 2. Open Serial Monitor (Baud rate: 9600).
